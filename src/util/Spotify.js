@@ -1,6 +1,6 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
-const client_id = 'f8ad907eba73435cab1eac252174520e';
+const client_id = 'API_KEY';
 const redirect_uri = 'http://localhost:3000/';
 let accessToken = '';
 
